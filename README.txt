@@ -1,1 +1,1 @@
-Reuses code from https://github.com/kundajelab/retina-models. Install requirements from https://github.com/kundajelab/retina-models/blob/main/requirements.txt.
+Requirements in requirements.txt. Please see notebooks in beta_globin and SPI1_bQTL to recreate vignettes.
